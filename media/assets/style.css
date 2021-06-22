@@ -1,0 +1,275 @@
+@media only screen and (min-width:0) {
+    body {
+        background-color: white;
+        line-height: 1.5;
+        font-family: "Lato", sans-serif;
+    }
+    .fixed {
+        top: 0;
+        background-color: black;
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+        height: 4%;
+    }
+    .nav a {
+        color: white;
+        margin-right: 45px;
+        height: 30px;
+        float: left;
+        width: auto;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    .rel {
+        position: relative;
+        display: inline-block;
+        background-color: white
+    }
+    .rel-abs {
+        display: none;
+        position: absolute;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+        background-attachment: white;
+    }
+    .rel-abs a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        background-color: white;
+    }
+    .rel-abs a:hover {
+        background-color: #cccccc;
+    }
+    .but {
+        color: white;
+        padding: 2px;
+        font-size: 16px;
+        border: none;
+        background-color: black;
+    }
+    .rel:hover .rel-abs {
+        display: block;
+    }
+    .rel:hover .but {
+        color: black;
+        background-color: #cccccc;
+    }
+    #hover:hover {
+        background-color: #cccccc;
+    }
+    .sekil {
+        position: absolute;
+        color: white;
+    }
+}
+
+@media only screen and (min-width: 500px) {
+    body {
+        background-color: white;
+        line-height: 1.5;
+        font-family: "Lato", sans-serif;
+    }
+    .fixed {
+        top: 0;
+        background-color: black;
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+        height: 4%;
+    }
+    .nav a {
+        color: white;
+        margin-right: 45px;
+        height: 30px;
+        float: left;
+        width: auto;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    .rel {
+        position: relative;
+        display: inline-block;
+        background-color: white
+    }
+    .rel-abs {
+        display: none;
+        position: absolute;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+        background-attachment: white;
+    }
+    .rel-abs a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        background-color: white;
+    }
+    .rel-abs a:hover {
+        background-color: #cccccc;
+    }
+    .but {
+        color: white;
+        padding: 2px;
+        font-size: 16px;
+        border: none;
+        background-color: black;
+    }
+    .rel:hover .rel-abs {
+        display: block;
+    }
+    .rel:hover .but {
+        color: black;
+        background-color: #cccccc;
+    }
+    #hover:hover {
+        background-color: #cccccc;
+    }
+    .sekil {
+        position: absolute;
+        color: white;
+    }
+}
+
+@media only screen and (min-width: 900px) {
+    body {
+        background-color: white;
+        line-height: 1.5;
+        font-family: "Lato", sans-serif;
+    }
+    .fixed {
+        top: 0;
+        background-color: black;
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+        height: 4%;
+    }
+    .nav a {
+        color: white;
+        margin-right: 45px;
+        height: 30px;
+        float: left;
+        width: auto;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    .rel {
+        position: relative;
+        display: inline-block;
+        background-color: white
+    }
+    .rel-abs {
+        display: none;
+        position: absolute;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+        background-attachment: white;
+    }
+    .rel-abs a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        background-color: white;
+    }
+    .rel-abs a:hover {
+        background-color: #cccccc;
+    }
+    .but {
+        color: white;
+        padding: 2px;
+        font-size: 16px;
+        border: none;
+        background-color: black;
+    }
+    .rel:hover .rel-abs {
+        display: block;
+    }
+    .rel:hover .but {
+        color: black;
+        background-color: #cccccc;
+    }
+    #hover:hover {
+        background-color: #cccccc;
+    }
+    .sekil {
+        position: absolute;
+        color: white;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    body {
+        background-color: white;
+        line-height: 1.5;
+        font-family: "Lato", sans-serif;
+    }
+    .fixed {
+        top: 0;
+        background-color: black;
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+        height: 4%;
+    }
+    .nav a {
+        color: white;
+        margin-right: 45px;
+        height: 30px;
+        float: left;
+        width: auto;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    .rel {
+        position: relative;
+        display: inline-block;
+        background-color: white
+    }
+    .rel-abs {
+        display: none;
+        position: absolute;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+        background-attachment: white;
+    }
+    .rel-abs a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        background-color: white;
+    }
+    .rel-abs a:hover {
+        background-color: #cccccc;
+    }
+    .but {
+        color: white;
+        padding: 2px;
+        font-size: 16px;
+        border: none;
+        background-color: black;
+    }
+    .rel:hover .rel-abs {
+        display: block;
+    }
+    .rel:hover .but {
+        color: black;
+        background-color: #cccccc;
+    }
+    #hover:hover {
+        background-color: #cccccc;
+    }
+    .sekil {
+        position: absolute;
+        color: white;
+    }
+}
